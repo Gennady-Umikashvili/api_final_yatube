@@ -60,7 +60,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-
 ## Примеры запросов
 
 ```
@@ -83,5 +82,4 @@ python manage.py runserver
 Получение списка групп: GET /api/v1/groups/
 ```
 
-
-## Автор проекта:[Gennady Umikashvili](https://github.com/Gennady-Umikashvili)
+## Автор проекта: [Gennady Umikashvili](https://github.com/Gennady-Umikashvili)
